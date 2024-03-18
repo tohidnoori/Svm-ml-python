@@ -1,6 +1,7 @@
 # Svm-Ml-Python
 Simple analysising data using Support Vector Machine that is one of classification and regression algorithms in machine learning.
-I used the popular scikit-learn library in this project.
+<br/>
+I used the popular python library named scikit-learn, jupter notebook that is a web-based interactive computing platform in this project.
 <br/>
 <br/>
 The data comes from <a href="https://archive.ics.uci.edu/">This<a/> site.
@@ -22,14 +23,22 @@ Different features that data analysed by
  4:Different graphs for presenting data
 </pre>
 
-<div align="center" style="display:flex;flex-direction:row;align-items: center;">
-  <img style="margin:10;" src="https://www.karlancer.com/api/file/x/x764/1698246407-MpjA.JPG" width="300" alt="Image 1">
-  <img style="margin:10;" src="https://www.karlancer.com/api/file/x/x764/1698246410-vtb0.JPG" width="300" alt="Image 2">
-  <div/>
-<br/>
-<br/>
+Some pictures after running code
 
 <div align="center" style="display:flex;flex-direction:row;align-items: center;">
-  <img  src="https://www.karlancer.com/api/file/x/x764/1698246410-G85M.JPG" width="300" alt="Image 3">
-  <img  src="https://www.karlancer.com/api/file/x/x764/1698246406-HvYL.JPG" width="300" alt="Image 4">
+  <img style="margin:10;" src="https://github.com/tohidnoori/Svm-ml-python/blob/master/Images/cf-image.png" width="400" height="400" alt="Image 1">
+  <img style="margin:10;" src="https://github.com/tohidnoori/Svm-ml-python/blob/master/Images/roc-auc-curve.png" width="400" height="400"  alt="Image 2">
   <div/>
+<br/>
+<br/>
+  <div align="center" style="display:flex;flex-direction:row;align-items: center;">
+  <img style="margin:10;" src="https://github.com/tohidnoori/Svm-ml-python/blob/master/Images/scree-plot.png" width="400" height="400"  alt="Image 1">
+  <div/>
+   <br/>
+<br/>
+<div align="center" style="display:flex;flex-direction:row;align-items: center;">
+  <img style="margin:10;" src="https://github.com/tohidnoori/Svm-ml-python/blob/master/Images/scatter-plot.png" width="400" height="400"  alt="Image 1">
+  <img style="margin:10;" src="https://github.com/tohidnoori/Svm-ml-python/blob/master/Images/scatter-graph.png" width="400" height="400"  alt="Image 2">
+  <div/>
+
+
