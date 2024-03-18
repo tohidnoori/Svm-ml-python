@@ -1,20 +1,21 @@
 # Svm-Ml-Python
-Simple analysising data using Support Vector Machine that is one of classification and regression algorithms in machine learning.
+
+Support Vector Machine, a machine learning algorithm for classification and regression, is used for basic data analysis.
 <br/>
-I used the popular python library named scikit-learn, jupter notebook that is a web-based interactive computing platform in this project.
-<br/>
-<br/>
-The data comes from <a href="https://archive.ics.uci.edu/">This<a/> site.
+For this experiment, I used Jupter Notebook, a web-based interactive computing platform, and the well-known Python module scikit-learn.
 <br/>
 <br/>
-This datas are currently analysed
+This <a href="https://archive.ics.uci.edu/">website<a/> provided the data.
+<br/>
+<br/>
+These statistics are being examined right now:
 <br/>
 <pre>
  1:Heart-Disease
  2:Bank-Custommers
 </pre>
 <br/>
-Different features that data analysed by
+These features are included in this expiration:
 <br/>
 <pre>
  1:Confusion matrix
