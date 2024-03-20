@@ -8,21 +8,19 @@ For this experiment, I used Jupter Notebook, a web-based interactive computing p
 This <a href="https://archive.ics.uci.edu/">website<a/> provided the data.
 <br/>
 <br/>
-These statistics are being examined right now:
-<br/>
-<pre>
- 1:Heart-Disease
- 2:Bank-Custommers
-</pre>
-<br/>
-These features are included in this expiration:
-<br/>
-<pre>
- 1:Confusion matrix
- 2:Roc-Auc Curve
- 3:PCA graph
- 4:Different graphs for presenting data
-</pre>
+
+
+#### These statistics are being examined right now: ####
+  * Heart-Disease
+  * Bank-Custommers
+<br/><br/>
+
+
+#### These features are included in this expiration: ####
+  * Confusion matrix
+  * Roc-Auc Curve
+  * PCA graph
+  * Different graphs for presenting data
 
 Some pictures after running code
 
