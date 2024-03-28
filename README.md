@@ -4,9 +4,6 @@
 <br/>
 For this experiment, I used Jupter Notebook, a web-based interactive computing platform, and the well-known Python module scikit-learn.
 <br/>
-<br/>
-This <a href="https://archive.ics.uci.edu/">website<a/> provided the data.
-<br/>
 - - - -
 #### These statistics are being examined right now: ####
   * <a  href="https://archive.ics.uci.edu/dataset/45/heart+disease">Heart Disease<a/>
@@ -15,6 +12,8 @@ This <a href="https://archive.ics.uci.edu/">website<a/> provided the data.
   * Confusion matrix
   * Roc-Auc Curve
   * PCA graph
+  * MDS graph
+  * Cross validation
   * Different graphs for presenting data
 - - - -
 ### Some pictures after running code
